@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659815803370",
+    "project_id": "remindo-434f2",
+    "storage_bucket": "remindo-434f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659815803370:android:63a39076b538f0eb696a93",
+        "android_client_info": {
+          "package_name": "com.example.remindo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Tg6DTpfQ1WQu8xuICoG5waT8ns0W1xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
